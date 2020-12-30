@@ -1,2 +1,2 @@
-# House-price
+# PCA
 Using Principal component analysis
